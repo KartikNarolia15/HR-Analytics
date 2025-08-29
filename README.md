@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
+The HR Analytics Dashboard is an interactive Power BI solution designed to analyze workforce demographics, attrition trends, and employee engagement metrics. This project provides actionable insights into employee retention and helps HR teams make data-driven decisions.
+By automating HR metric tracking and visualizing key KPIs, the dashboard enables organizations to identify attrition drivers, optimize employee satisfaction, and improve workforce stability.
 
 [Live Report Link](https://www.novypro.com/project/business-insights-360-6)
 
