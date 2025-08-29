@@ -7,6 +7,13 @@ By automating HR metric tracking and visualizing key KPIs, the dashboard enables
 
 [Live Report Link](https://www.novypro.com/project/business-insights-360-6)
 
+## Objectives
+
+- Analyze employee attrition trends across demographics, job roles, and salary bands.
+- Provide data-driven insights to HR managers for improving retention strategies.
+- Automate HR reporting to save manual effort and increase efficiency.
+- Build a scalable and interactive Power BI dashboard for decision-makers.
+
 ## Tools Used
 
 - Power BI – Dashboard creation & visualization
