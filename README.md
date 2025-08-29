@@ -14,6 +14,14 @@ By automating HR metric tracking and visualizing key KPIs, the dashboard enables
 - Automate HR reporting to save manual effort and increase efficiency.
 - Build a scalable and interactive Power BI dashboard for decision-makers.
 
+## Key Insights from the Dashboard
+
+- Attrition Rate: 16.1% out of 1470 employees.
+- Attrition by Age: Highest among employees aged 26–35.
+- Attrition by Job Role: Laboratory Technicians, Sales Executives, and Research Scientists had the highest turnover.
+- Attrition by Salary: Majority of attrition occurs in the ≤5K salary range.
+- Attrition by Education: Life Sciences and Medical backgrounds show higher attrition.
+
 ## Tools Used
 
 - Power BI – Dashboard creation & visualization
@@ -21,22 +29,9 @@ By automating HR metric tracking and visualizing key KPIs, the dashboard enables
 - Excel – Initial data preparation and exploration
 - SQL – Data manipulation and trend analysis
 
-## PowerBI techniques Learnt
+## Features
 
-- What are all the questions should be asked before staring the project
-- Creating calculated columns
-- creating measure using DAX language
-- Data modeling
-- Using Bookmarks to switch between two visuals
-- Page navigation with buttons
-- Using divide function to prevent zero division errors
-- creating date table using m language
-- Dynamic titles based on the applied filters
-- Using KPI indicators
-- Conditional formatting the values in visuals using icons or background color
-- Data validation techniques
-- PowerBi services
-- Publishing reports to PowerBi services
-- Setting up personal gateway to set up the auto refresh of data
-- PowerBi App creation
-- Collaboration, workspace, access permissions in PowerBi services
+- Automated HR metric tracking (saved 3–4 hours daily in manual reporting).
+- Interactive dashboard with drill-downs by age, salary, education, and job role.
+- Root cause analysis to identify key attrition drivers.
+- Clear visualization of employee demographics and attrition distribution.
