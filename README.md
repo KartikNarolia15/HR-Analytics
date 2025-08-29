@@ -9,11 +9,10 @@ By automating HR metric tracking and visualizing key KPIs, the dashboard enables
 
 ## Tools Used
 
-- SQL
-- Power BI Desktop
-- Excel
-- DAX language
-- DAX studio (for optimizing the report)
+- Power BI – Dashboard creation & visualization
+- Power Query – Data cleaning & transformation
+- Excel – Initial data preparation and exploration
+- SQL – Data manipulation and trend analysis
 
 ## PowerBI techniques Learnt
 
