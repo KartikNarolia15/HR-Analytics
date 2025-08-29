@@ -5,7 +5,7 @@
 The HR Analytics Dashboard is an interactive Power BI solution designed to analyze workforce demographics, attrition trends, and employee engagement metrics. This project provides actionable insights into employee retention and helps HR teams make data-driven decisions.
 By automating HR metric tracking and visualizing key KPIs, the dashboard enables organizations to identify attrition drivers, optimize employee satisfaction, and improve workforce stability.
 
-[Live Report Link]([https://www.novypro.com/project/business-insights-360-6](https://app.powerbi.com/links/BAu0x3f-XG?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=3aaec417-61ce-4287-9dfc-33c72f15b970)
+
 
 ## Objectives
 
